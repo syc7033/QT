@@ -1,0 +1,12 @@
+release/main.o
+release/msghandler.o
+release/mytcpserver.o
+release/mytcpsocket.o
+release/operatordb.o
+release/protocol.o
+release/server.o
+release/qrc_server.o
+release/moc_mytcpserver.o
+release/moc_mytcpsocket.o
+release/moc_operatordb.o
+release/moc_server.o
